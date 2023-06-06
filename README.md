@@ -10,4 +10,4 @@ Shift+Right Click the directory in file explorer and hit "Open PowerShell window
 
 `pip install -r requirements.txt`
 
-Downloaded files go to 'Downloads' folder. There is currently no way to change this within this program.
+Downloaded mp4 files go to 'Downloads' folder. There is currently no way to change this within this program.
