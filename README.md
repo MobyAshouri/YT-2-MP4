@@ -9,3 +9,5 @@ A .txt file is included called "requirements"
 Shift+Right Click the directory in file explorer and hit "Open PowerShell window here". Then type the following to install dependencies:
 
 `pip install -r requirements.txt`
+
+Downloaded files go to 'Downloads' folder. There is currently no way to change this within this program.
